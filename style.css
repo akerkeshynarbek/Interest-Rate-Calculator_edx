@@ -1,0 +1,26 @@
+body{background-color:black;
+     font-family:arial;
+     color:white;
+}
+h1{color:grey;
+    font-family:verdana;
+}
+
+
+/*******main changes in div*****/
+.maindiv{
+background-color: white;
+color: black;
+width: 35%;
+height:300px;
+padding: 30px;
+margin:auto;
+border: 50px solid white;
+border-radius: 25px;
+}
+
+
+/*****to highlight numbers in result***/
+.highlight{
+    background-color: yellow;
+}
